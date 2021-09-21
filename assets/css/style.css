@@ -347,6 +347,12 @@ section {
   padding-bottom: 10px;
 }
 
+.resume .resume-item ul i {
+ font-size: 50px;
+ display: inline-block;
+ color: #3A444D;
+}
+
 .resume .resume-item:last-child {
   padding-bottom: 0;
 }
@@ -361,6 +367,30 @@ section {
   top: 0;
   background: #fff;
   border: 2px solid #0563bb;
+}
+
+#interest li
+{
+  font-size: 16px;
+  background: #f7f8f9;
+  padding: 5px 15px;
+  display: inline-block;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+#social ul p
+{
+  font-size: 16px;
+  display: inline-block;
+  padding: 5px 10px;
+}
+
+#social i 
+{
+  font-size: 35px;
+  display: inline-block;
+  color: #3A444D;
 }
 
 /*--------------------------------------------------------------
